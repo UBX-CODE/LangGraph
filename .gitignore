@@ -2,3 +2,9 @@ myenv/
 __pycache__/
 *.pyc
 
+
+myenv/
+__pycache__/
+*.pyc
+.env
+
