@@ -6,11 +6,6 @@ A collection of practical **LangGraph workflows** built while learning **Agentic
 
 Exploring graph-based orchestration, state management, structured outputs, conditional routing, and multi-step LLM pipelines.
 
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agentic%20AI-blue)
-![LangChain](https://img.shields.io/badge/LangChain-Framework-green)
-![Groq](https://img.shields.io/badge/Groq-LLM-orange)
-![License](https://img.shields.io/badge/License-MIT-black)
 
 </div>
 
@@ -197,9 +192,3 @@ Suggestions and improvements are welcome.
 Feel free to fork the repository, experiment with new workflows, and open a pull request.
 
 ---
-
-<div align="center">
-
-Built while learning **LangGraph** and **Agentic AI** 🚀
-
-</div>
